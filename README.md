@@ -1,2 +1,3 @@
-# desafio-github-santander
-Primeiro desafio criando o primeiro repositório no GitHub junto com o GitBash
+# desafio-github-dio
+Primeiro desafio criando um repositório para GitHub
+Finalização com GitBash
