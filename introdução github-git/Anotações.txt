@@ -1,0 +1,32 @@
+Primeiros passos:
+ - Estudar das 22:00 ás 23:30
+ - 10 mintuos de intervalo 
+
+Programas para curso:
+ - Git (https://git-scm.com)
+ - Github (https://github.com) - necessário criar conta
+
+Primeiro módulo:
+
+- Iremos conhecer sobre o pensamento computacional e sua programação,
+onde iremos entender sobre alguns pontos importantes da computação.
+Como lógica , algoritmos e linguagens fazendo assim com que possamos analisar
+com mais cuidado e atenção os desafios futuros do curso.
+
+Segundo Módulo:
+
+- Inicialmente vamos instalar corretamente o git
+- Conhecer alguns códigos simples usados 
+- Iniciar as configuraçoes e dar inicio aos primeiros comandos no git
+- Conhecer github e como incluir o repositório no seu perfil e pc. 
+
+Observações:
+-O email cadastrado no github tem que ser o mesmo configurado no gitbash para 
+conseguirmos comitar sem erros ou precisar reiniciar o processo.
+
+-Aprendemos há utilizar o Markdown como editor de texto 
+para gerar nossa receita.
+
+
+Desafio GitHub - Realizar através do que aprendeu nas aulas o seu primeiro 
+repositório no github com sua chave de acesso ssh com finalização no GitBash
